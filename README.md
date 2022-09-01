@@ -67,3 +67,13 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alifaroo-q&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifaroo-q&layout=compact&theme=dracula)
+
+## Top repositories
+
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alifaroo-q&repo=todo-react-app&theme=dracula)](https://github.com/alifaroo-q/todo-react-app)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alifaroo-q&repo=quizzical-app&theme=dracula)](https://github.com/alifaroo-q/quizzical-app)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alifaroo-q&repo=TODO-APP&theme=dracula)](https://github.com/alifaroo-q/TODO-APP)
+ 
