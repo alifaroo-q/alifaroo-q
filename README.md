@@ -54,14 +54,15 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
 </div>
-
-
+                                                                                                                                            
 ---
-
+                                                                                                                                             
 ### :fire: My Stats :
-
+                                                                                                                                              
+<br>
+                                                                                                                                              
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifaroo-q&show_icons=true&theme=dracula)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alifaroo-q&theme=dracula)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alifaroo-q&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifaroo-q&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifaroo-q&layout=compact&theme=dracula)
