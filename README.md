@@ -60,7 +60,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alifaroo-q&theme=dark&background=000000)](https://git.io/streak-stats)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifaroo-q&show_icons=true&theme=dracula&title_color=fa8b00&icon_color=fa8b00&bg_color=000000)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alifaroo-q&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifaroo-q&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
