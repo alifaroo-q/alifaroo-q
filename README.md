@@ -26,13 +26,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m doing Bsc. Software Engineering from DHA Suffa University.
+- :telescope: I’m doing BSc. Software Engineering from DHA Suffa University.
 
 - :seedling: I’m currently learning machine learning and cloud computing
 
 - ☁️ Ask me about react, node-express, javascript
 
-- :mailbox: To to reach me, add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itsalifarooq/)
+- :mailbox: To reach me, add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itsalifarooq/)
 
 
 #
@@ -59,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 #
 
-### 🏆 Github Trophies
+### 🏆 Github Trophies :
 
 <br>
 
@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
  #
 
- ### 🔝 Top Contributed Repos
+ ### 🔝 Top Contributed Repos :
 
  <br>
  
