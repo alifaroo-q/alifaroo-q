@@ -24,36 +24,26 @@
 
 ### :man_technologist: About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m doing Bsc. Software Engineering from DHA Suffa University.
 
-- :seedling: I like to learn new and different technologies.
+- :seedling: I’m currently learning machine learning and cloud computing
 
-- :zap: In my free time, I watch anime and read manga.
+- ☁️ Ask me about react, node-express, javascript
 
-- :mailbox:To to reach me, add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itsalifarooq/)
+- :mailbox: To to reach me, add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itsalifarooq/)
 
 
 #
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px height=50px src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px height=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-  <img width=50px height=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-  <img width=50px height=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
-  <img width=50px height=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">&nbsp;
-  <img width=50px height=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
-  <img width=50px height=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px height=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">&nbsp;
-  <img width=50px height=50px src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">&nbsp;
-</div>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,bootstrap,tailwind,react,materialui,nodejs,express,flask,postman,mysql,mongodb,sqlite,linux,vscode,vite," />
+  </a>
+</p>
+
                                                                                                                                             
 #
                                                                                                                                              
@@ -67,12 +57,33 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifaroo-q&layout=compact&theme=dracula)
 
-## :top: Top repositories :
+#
+
+### 🏆 Github Trophies
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alifaroo-q&theme=dracula&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+#
+
+### :top: Top Repos :
+
+<br>
 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alifaroo-q&repo=todo-react-app&theme=dracula)](https://github.com/alifaroo-q/todo-react-app)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alifaroo-q&repo=todo-react-app&theme=dracula)](https://github.com/alifaroo-q/crwn-clothing)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alifaroo-q&repo=quizzical-app&theme=dracula)](https://github.com/alifaroo-q/quizzical-app)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alifaroo-q&repo=TODO-APP&theme=dracula)](https://github.com/alifaroo-q/TODO-APP)
+
+
+ #
+
+ ### 🔝 Top Contributed Repos
+
+ <br>
  
+![](https://github-contributor-stats.vercel.app/api?username=alifaroo-q&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
